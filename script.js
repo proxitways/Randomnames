@@ -4,21 +4,21 @@ function showResult() {
 
   // 🔒 Secret predefined order
   const chosenOrder = [
-    "ANJU PATHROSE ONE",
+    "ANJU PATHROSE 1",
     "FATHIMA KP",
-    "AKHILA AND CHINDU SPLIT",
+    "IQBAL",
     "ANCY ANTONY",
-    "CHINDUMOLE",
+    "BENCY 2",
     "FAHAD KP",
-    "FEBY KOSHY ONE",
+    "FEBY KOSHY 1",
     "AKHILA SARATH",
     "NISHA PULIVELICHIRA",
     "JOMON",
     "ISHARA",
     "SARATH",
-    "ANJU PATHROSE TWO",
-    "FEBY KOSHY TWO",
-    "BENCY"
+    "ANJU PATHROSE 2",
+    "FEBY KOSHY 2",
+    "BENCY 1"
   ];
 
   const ordered = chosenOrder.filter(name => names.includes(name));
@@ -63,4 +63,5 @@ function displayFinalResult(ordered) {
     }, index * 300);
   });
 }
+
 
