@@ -12,33 +12,33 @@ function showResult() {
 
     "ANJU PATHROSE ONE",
 
-    "FATHIMA KP",
-
-    "AKHILA AND CHINDU SPLIT",
+    "IQBAL",
 
     "ANCY ANTONY",
 
-    "CHINDUMOLE",
-
-    "FAHAD KP",
-
-    "FEBY KOSHY ONE",
-
-    "AKHILA SARATH",
+    "FATHIMA",
 
     "NISHA PULIVELICHIRA",
 
-    "JOMON",
+    "FAHAD KP",
 
-    "ISHARA",
+    "BENCY ONE",
 
     "SARATH",
 
+    "JOMON",
+
+    "ANN MARY ANTONY",
+
+    "FEBI KOSHY",
+
+    "ISHARA",
+
     "ANJU PATHROSE TWO",
 
-    "FEBY KOSHY TWO",
+    "AKHILA SARATH",
 
-    "BENCY"
+    "BENCY TWO"
 
   ];
 
@@ -127,6 +127,7 @@ function displayFinalResult(ordered) {
   });
 
 }
+
 
 
 
